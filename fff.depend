@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651484406 source:c:\users\cctmg02\desktop\fff\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<bits/stdc++.h>
+	<queue>
+
